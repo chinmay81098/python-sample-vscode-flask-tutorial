@@ -15,7 +15,7 @@ variables:
   webAppName: 'firstPipelineFlask'
 
   # Environment name
-  environmentName: ''
+  environmentName: 'firstPipelineFlask'
   
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
